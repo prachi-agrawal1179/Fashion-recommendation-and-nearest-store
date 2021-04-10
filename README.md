@@ -4,10 +4,6 @@ To make seamless online/offline business for retailers and make smooth transitio
 --Dataset -  http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html
 
 
-#Pre-requisite
+Pre-requisite
 
--- install annoy
--- install fastai
--- install osmnx
--- install cv2
--- install gdown
+install annoy,fastai,osmnx,cv2,gdown,python
